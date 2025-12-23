@@ -3,7 +3,7 @@ module github.com/adalundhe/conveyor
 go 1.25.5
 
 require (
-	github.com/adalundhe/micron v1.1.1
+	github.com/adalundhe/micron v1.1.7
 	github.com/clerk/clerk-sdk-go/v2 v2.5.0
 	github.com/gin-gonic/gin v1.11.0
 	github.com/golang-jwt/jwt/v5 v5.3.0
